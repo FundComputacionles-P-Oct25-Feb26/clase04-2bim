@@ -17,9 +17,3 @@
 17.     Escribir v + y
 18. fin funcion obtenerMensaje
 19. Fin
-
-
-// Loja
-// Hola Mundo desde Ecuador
-// Loja
-// Hola Mundo desde Ecuador
